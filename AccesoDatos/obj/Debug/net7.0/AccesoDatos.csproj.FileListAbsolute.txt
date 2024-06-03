@@ -1,0 +1,14 @@
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\Elio\source\repos\Escuela\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
