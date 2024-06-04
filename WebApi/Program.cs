@@ -6,6 +6,15 @@ builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
 
+builder.Services.AddCors(opt =>
+{
+    opt.AddPolicy("NuevaPolitica", app => {
+        app.AllowAnyOrigin();
+        app.AllowAnyMethod();
+        app.AllowAnyHeader();
+    });
+});
+
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
@@ -17,6 +26,8 @@ var app = builder.Build();
 app.UseAuthentication();
 
 app.UseAuthorization();
+
+app.UseCors("NuevaPolitica");
 
 app.MapControllers();
 
